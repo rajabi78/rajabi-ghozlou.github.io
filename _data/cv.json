@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Mohammad-Hossein Rajabi-Ghozlou",
+    "email": "rajabi.ghozlou@gmail.com",
+    "phone": "+989909500584",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Researcher with a Bachelor's degree in Computer Engineering ",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "Iran_Theran_Bagh-e-feyz",
+      "postalCode": "1473115778",
+      "city": "Tehran",
+      "countryCode": "Iran",
       "region": ""
     },
     "profiles": [

@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "rajabi2.png"
+  avatar           : "rajabi2.jpg"
   name             : "Mohammad Hossein Rajabi Ghozlou"
   pronouns         : # example: "she/her"  
   bio              : "Researcher with a Bachelor's degree in Computer Engineering"

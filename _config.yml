@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "rajabi2.png"
+  name             : "Mohammad Hossein Rajabi Ghozlou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Researcher with a Bachelor's degree in Computer Engineering"
+  location         : "Iran_Tehran"
+  employer         : "Iran university of science and technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rajabi.ghozlou@gmail.com" 
 
   # Academic websites
   academia         : # URL
